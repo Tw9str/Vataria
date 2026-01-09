@@ -20,9 +20,9 @@ export default function Home() {
         {/* subtle vignette */}
         <div className="absolute inset-0 bg-[radial-gradient(1200px_700px_at_50%_0%,rgba(255,255,255,0.06),transparent_60%)]" />
         {/* olive/amber glows */}
-        <div className="absolute left-[-30%] top-[-30%] h-[720px] w-[720px] rounded-full bg-[#89b36a] opacity-18 blur-3xl" />
-        <div className="absolute right-[-35%] top-[0%] h-[760px] w-[760px] rounded-full bg-[#f0c66a] opacity-12 blur-3xl" />
-        <div className="absolute left-[15%] bottom-[-35%] h-[760px] w-[760px] rounded-full bg-[#3f783c] opacity-10 blur-3xl" />
+        <div className="absolute left-[-30%] top-[-30%] h-[320px] w-[320px] md:h-[720px] md:w-[720px] rounded-full bg-[#89b36a] opacity-18 blur-3xl" />
+        <div className="absolute right-[-35%] top-[0%] h-[320px] w-[320px] md:h-[760px] md:w-[760px] rounded-full bg-[#f0c66a] opacity-12 blur-3xl" />
+        <div className="absolute left-[15%] bottom-[-35%] h-[320px] w-[320px] md:h-[760px] md:w-[760px] rounded-full bg-[#3f783c] opacity-10 blur-3xl" />
         {/* soft grain */}
         <div className="absolute inset-0 opacity-[0.06] mix-blend-overlay [background-image:url('data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22600%22 height=%22600%22%3E%3Cfilter id=%22n%22%3E%3CfeTurbulence type=%22fractalNoise%22 baseFrequency=%220.8%22 numOctaves=%224%22 stitchTiles=%22stitch%22/%3E%3C/filter%3E%3Crect width=%22600%22 height=%22600%22 filter=%22url(%23n)%22 opacity=%220.35%22/%3E%3C/svg%3E')]" />{" "}
       </div>
