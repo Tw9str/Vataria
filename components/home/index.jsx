@@ -4,7 +4,7 @@ import EmailIcon from "@/components/Icons/EmailIcon";
 
 export default function Home() {
   const contact = {
-    company: "Vataria",
+    company: "Vitaria",
     email: "orders@example.com",
     phone: "+90 535 733 1290",
     whatsapp:

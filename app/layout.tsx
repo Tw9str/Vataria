@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vataria - Olive Oil",
-  description: "Vataria offers premium olive oil crafted with care.",
+  title: "Vitaria - Olive Oil",
+  description: "Vitaria offers premium olive oil crafted with care.",
 };
 
 export default function RootLayout({
