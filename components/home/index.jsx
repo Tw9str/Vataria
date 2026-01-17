@@ -11,7 +11,7 @@ export default function Home() {
       "https://wa.me/905357331290?text=Hello%20I%20am%20interested%20in%20your%20olive%20oil",
   };
 
-  const qrValue = "https://vataria.us/";
+  const qrValue = "https://vitaria.us/";
 
   return (
     <main className="relative min-h-screen overflow-hidden bg-[#0f1411] text-white">
